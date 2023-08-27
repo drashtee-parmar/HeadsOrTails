@@ -8,14 +8,16 @@ Important, the first letter should be capitalised and spelt exactly like in the 
 
 There are many ways of doing this. But to practice what we learnt in the last lesson, you should generate a random number, either 0 or 1. Then use that number to print out Heads or Tails.
 
-e.g. 
-## 1 means Heads 
+## e.g. 
+1 means Heads 
 
-## 0 means Tails
+0 means Tails
 
 ## Example Output
 
 Heads
 or
-
 Tails
+
+## Resources
+- [Random Module](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
